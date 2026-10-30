@@ -1,0 +1,15 @@
+target/
+*.war
+.git/
+.gitignore
+.gitattributes
+.idea/
+*.iml
+.vscode/
+*.log
+scratch/
+run-server.bat
+docker-run.bat
+.DS_Store
+Thumbs.db
+
